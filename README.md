@@ -10,4 +10,4 @@ html css js
 
 <h3>Ekran Görüntüsü</h3>
 
-![](ekran görüntüsü.gif)
+![](ekrangörüntüsü.gif)

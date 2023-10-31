@@ -1,2 +1,1 @@
-# restoran-pizza
 # restaurant-pizza
